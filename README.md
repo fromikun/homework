@@ -1,4 +1,4 @@
-[ics6.com](# homework)
+[https://ics6.com](# homework)
  ### 2024/11/12
  - 初代网页创建！
 
